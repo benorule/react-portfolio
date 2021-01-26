@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "React Weather",
+    "image": "./assets/react-weather.jpg",
+    "description": "Weather dashboard that shows the weather for a selected city using the Open Weather API.",
+    "github": "https://github.com/benorule/react-weather",
+    "deployment": "https://benorule.github.io/react-weather/"
+  },
+  {
+    "id": 2,
+    "name": "Bin Out",
+    "image": "./assets/bin-out.jpg",
+    "description": "Full stack web app providing a platform for people to hire others to take their bin out for them. Allows users to login and send requests to other users.",
+    "github": "https://github.com/benorule/bin-out",
+    "deployment": "https://bin-out.herokuapp.com/"
+  },
+  {
+    "id": 3,
+    "name": "EPL Fixture Guide",
+    "image": "./assets/eplfixture.jpg",
+    "description": "Single-page web app for viewing the time, location, and weather of upcoming fixtures for a selected EPL team along with a recent highlights video and the EPL ladder.",
+    "github": "https://github.com/benorule/epl-fixture-guide",
+    "deployment": "https://thomasmaglaris.github.io/epl-fixture-guide/"
+  },
+  {
+    "id": 4,
+    "name": "Burger App",
+    "image": "./assets/burger.jpg",
+    "description": "Full stack web app allowing users to add delete and update information relating to burgers.",
+    "github": "https://github.com/benorule/burger-app",
+    "deployment": "https://burger-appl.herokuapp.com/"
+  }
+]
