@@ -45,7 +45,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const cards = [0, 1, 2, 3]
+const cards = [0, 1, 2]
 
 export default function Album() {
   const classes = useStyles();
@@ -68,7 +68,7 @@ export default function Album() {
               Benjamin Turnbull
             </Typography>
             <Typography variant="h5" align="center" color="textSecondary" paragraph>
-            Front end web developer specialising in React. Dedicated to writing clean, elegant and efficient code in the languages of JavaScript, HTML5 and CSS3. Detail oriented approach to fully responsive design. Experience working in teams using the agile project management methodology Scrum. Practised in the use of jQuery, AJAX, REST APIs and CSS frameworks such as Bootstrap. Competent at testing, quality assurance and GitHub version control. Experience presenting projects, communicating their market value and explaining the technology using real world examples. Knowledge of back end technologies including Node.js, Express, MySQL and MongoDB.
+            Front end web developer dedicated to writing clean, elegant and efficient code in the languages of JavaScript, HTML5 and CSS3. Proficient in using the front end framework React. Detail oriented approach to fully responsive design. Experience working in teams using the agile project management methodology Scrum. Practised in the use of jQuery, AJAX, REST APIs and CSS frameworks such as Bootstrap. Competent at testing, quality assurance and GitHub version control. Experience presenting projects, communicating their market value and explaining the technology using real world examples. Knowledge of back end technologies including Node.js, Express, MySQL and MongoDB. 
             </Typography>
             <div className={classes.heroButtons}>
               <Grid container spacing={2} justify="center">
