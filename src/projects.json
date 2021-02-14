@@ -1,6 +1,14 @@
 [
   {
     "id": 1,
+    "name": "Text Adventure",
+    "image": "./assets/text-adventure-one.jpg",
+    "description": "Text adventure made with HTML, CSS, SASS, and JavaScript. Original interactive fiction writing.",
+    "github": "https://github.com/benorule/text-adventure-one",
+    "deployment": "https://benorule.github.io/text-adventure-one/"
+  }
+  {
+    "id": 2,
     "name": "React Weather",
     "image": "./assets/react-weather.jpg",
     "description": "Weather dashboard that shows the weather for a selected city using the Open Weather API.",
@@ -8,7 +16,7 @@
     "deployment": "https://benorule.github.io/react-weather/"
   },
   {
-    "id": 2,
+    "id": 3,
     "name": "Bin Out",
     "image": "./assets/bin-out.jpg",
     "description": "Full stack web app providing a platform for people to hire others to take their bin out for them. Allows users to login and send requests to other users.",
@@ -16,7 +24,7 @@
     "deployment": "https://bin-out.herokuapp.com/"
   },
   {
-    "id": 3,
+    "id": 4,
     "name": "EPL Fixture Guide",
     "image": "./assets/eplfixture.jpg",
     "description": "Single-page web app for viewing the time, location, and weather of upcoming fixtures for a selected EPL team along with a recent highlights video and the EPL ladder.",

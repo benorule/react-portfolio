@@ -1,6 +1,5 @@
 - Make changes to react project
 - Run script "npm run build"
-- Run script "npm run deploy"
 - Edit the build folder manually, adding "/project-name/" at the start of all the links in asset-manifest.json and index.html
 - Run script "npm run deploy" a second time
 - Push all git commits
