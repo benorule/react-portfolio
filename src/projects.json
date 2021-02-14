@@ -6,7 +6,7 @@
     "description": "Text adventure made with HTML, CSS, SASS, and JavaScript. Original interactive fiction writing.",
     "github": "https://github.com/benorule/text-adventure-one",
     "deployment": "https://benorule.github.io/text-adventure-one/"
-  }
+  },
   {
     "id": 2,
     "name": "React Weather",
