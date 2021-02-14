@@ -45,7 +45,7 @@ const useStyles = makeStyles((theme) => ({
   },
 }));
 
-const cards = [0, 1, 2]
+const cards = [0, 1, 2, 3]
 
 export default function Album() {
   const classes = useStyles();
